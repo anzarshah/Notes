@@ -76,6 +76,7 @@ body {
 .box {
   margin: 10px 200px 30px 200px;
   border: solid black;
+  text-align: center;
   height: 800px;
   font-size: 70px;
 }
