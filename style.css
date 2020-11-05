@@ -28,6 +28,10 @@ body {
   background-position: 0;
 }
 
+.hint {
+  font-size: 30px;
+  text-align: center;
+}
 footer {
   background-color: #f1c40f;
   color: black;
@@ -38,4 +42,30 @@ footer {
 .fa {
   color: black;
   font-size: 50px;
+}
+
+.about {
+  border: solid black;
+  background-color: antiquewhite;
+  color: black;
+  margin: 10px 200px 20px 200px;
+  text-align: ;
+}
+
+.about_name {
+  font-size: 30px;
+}
+
+.head_year {
+  text-align: center;
+  font-size: 50px;
+}
+
+.cycle {
+  text-align: center;
+  font-size: 30px;
+  background-color: blanchedalmond;
+  margin: 5px 30px 5px 30px;
+
+  border: solid black;
 }
