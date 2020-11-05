@@ -1,0 +1,41 @@
+body {
+}
+
+.name_head {
+  font-size: 90px;
+  text-align: center;
+  font-family: "Candal", sans-serif;
+  background-color: #f1c40f;
+}
+.drop {
+  text-align: center;
+  align-content: center;
+  margin: 0px 50% 0px 50%;
+}
+
+.fourth {
+  border-color: #f1c40f;
+  color: rgb(5, 5, 5);
+  background-image: -webkit-linear-gradient(45deg, #f1c40f 50%, transparent 0%);
+  background-image: linear-gradient(45deg, #f1c40f 50%, transparent 50%);
+  background-position: 100%;
+  background-size: 400%;
+  font-size: 30px;
+  -webkit-transition: background 300ms ease-in-out;
+  transition: background 300ms ease-in-out;
+}
+.fourth:hover {
+  background-position: 0;
+}
+
+footer {
+  background-color: #f1c40f;
+  color: black;
+  padding: 15px;
+  text-align: center;
+}
+
+.fa {
+  color: black;
+  font-size: 50px;
+}
